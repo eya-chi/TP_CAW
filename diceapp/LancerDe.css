@@ -1,0 +1,56 @@
+
+.LancerDe{ 
+
+  display: flex; 
+
+  flex-flow: column nowrap; 
+
+  min-height: 100vh; 
+} 
+
+.LancerDe-container{ 
+ 
+  display: flex; 
+
+  justify-content: center; 
+
+  align-content: center; 
+} 
+
+.LancerDe button{ 
+
+  width:15em; 
+
+  padding:1.5em; 
+
+  border: 0px; 
+
+  border-radius: 10px; 
+
+  color:white; 
+
+  background-color:rgb(80, 139, 62); 
+
+  margin-top: 3em; 
+
+  align-self: center; 
+} 
+
+.LancerDe button:hover{ 
+
+  cursor: pointer; 
+} 
+
+  
+.LancerDe-rolling{ 
+
+  border: 0px; 
+
+  border-radius: 20px; 
+
+  background-color:rgb(255, 187, 0) !important; 
+
+  opacity:0.7
+} 
+
+
